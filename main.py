@@ -1,3 +1,4 @@
+#изменения
 import telebot
 from openai import OpenAI
 
